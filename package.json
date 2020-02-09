@@ -1,0 +1,12 @@
+{
+  "name": "@interactivated/vsf-feedback-company",
+  "version": "1.0.2",
+  "description": "Feedback Company module for VSF",
+  "main": "index.ts",
+  "author": "Interactivated Ecommerce",
+  "license": "MIT",
+  "keywords": [
+    "Vue Storefront",
+    "VueJS"
+  ]
+}
